@@ -1,0 +1,7 @@
+﻿"tire_thickness"=0.5
+"D1@Sketch1"="tire_thickness"
+"wheel_thickness"=5
+"D2@Sketch1"="wheel_thickness"
+"wheel_dia"=12
+"D3@Sketch1"="wheel_dia"/2
+"shaft_dia" =.5
